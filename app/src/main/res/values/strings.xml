@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">ClaseRepasoAndroidFS</string>
+    <string name="names">Nombres</string>
+    <string name="lastnames">Apellidos</string>
+    <string name="nickname">Nombre Clave</string>
+    <string name="sign_up">Registrate</string>
+    <string name="name">Nombre</string>
+    <string name="nick">Nombre Clave</string>
+    <string name="description">Descripcion</string>
+    <string name="address">Direccion</string>
+    <string name="abilities">Habilidades</string>
+    <string name="age">Edad</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
 </resources>
